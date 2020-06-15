@@ -4,3 +4,85 @@ html, body {
     height: 100%;
 }
 
+
+
+.helloworld {
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background: orange;
+    position: relative;
+    left: 5px;
+    top: 7px;
+}
+
+
+p {
+    text-align: center;
+}
+
+/* TASKT 2-4 */
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    top: 100px;
+} 
+
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 255, 85);
+    position: relative;
+    bottom: 110px;
+    left: 10px;
+    
+}
+
+
+
+.box3 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(0, 183, 255);
+    position: relative;
+    bottom: 320px;
+    left: 20px;
+} 
+
+
+/* TASK 7 */
+
+.index {
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.box1a {
+    background-color: red;
+    position: relative;
+    z-index: 0;
+}
+
+
+.box2a {
+    background-color: rgb(0, 255, 85);
+    position: relative;
+    bottom: 210px;
+    left: 10px;
+    z-index: 2;
+}
+
+
+.box3a {
+    background-color: rgb(0, 183, 255);
+    position: relative;
+    bottom: 420px;
+    left: 20px;
+    z-index: 1;
+}
