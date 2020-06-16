@@ -1,9 +1,8 @@
-html, body {
+/* html, body {
     margin: 0;
     padding: 0;
     height: 100%;
-}
-
+} */
 
 
 .helloworld {
@@ -11,15 +10,12 @@ html, body {
     width: 200px;
     margin: 0 auto;
     background: orange;
+    text-align: center;
     position: relative;
     left: 5px;
     top: 7px;
 }
 
-
-p {
-    text-align: center;
-}
 
 /* TASKT 2-4 */
 
@@ -86,3 +82,8 @@ p {
     left: 20px;
     z-index: 1;
 }
+
+
+
+/* This session is to tryout github */
+/* NOT many code change */
